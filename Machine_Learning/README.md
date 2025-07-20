@@ -9,6 +9,14 @@ networks for supervised image classification), while at the same time introducin
 the latest developments in the field (e.g. self-supervised learning, transformers, simulation
 based inference). The course will include practical exercises in the form of Jupyter notebooks.
 
+#### Lectures:
+
+1. https://drive.google.com/file/d/1qvXM4ZAq-TiwEuAxe3NHv7lM19htSnyN/view?usp=drive_link
+
+2. https://drive.google.com/file/d/1r2DiqPRS5i4xb07ilFEJhah_hEfON4Pl/view?usp=drive_link
+
+3. https://drive.google.com/file/d/1F_bezotFH5c6-3thrwZRf2S5Ld6d67-T/view?usp=drive_link
+
 #### Code:
 
 1. https://colab.research.google.com/drive/1B1nJg3Kk9PmmPn35kbvM5i2MTGQ3XTBZ?usp=sharing
