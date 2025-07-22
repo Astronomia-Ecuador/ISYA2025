@@ -1,6 +1,9 @@
 ## Course 9: Interstellar Medium
 ### Laurence Sabin (UNAM, México), 5 lectures
 
+
+#### Lecture Notes: https://docs.google.com/presentation/d/18bgGA_RZI38Ynzw8_mNKc22VLLlaQJGAyZcQF5UXZfQ/edit?usp=sharing
+
 #### Lecture 1) Components of the ISM (Observations)
 
 - Physical conditions (density, temperature, and pressure) - Hot gas
