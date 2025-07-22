@@ -24,7 +24,7 @@ In this talk, I will focus on the physical properties of cosmic filaments at z=0
 The goal of this work is to build a new family of stellar interior solutions in the anisotropic regime of pressure using the framework of gravitational decoupling via minimal geometric deformation. For such purpose, we use a generalization of the complexity factor of the well-known Wyman IIa (n = 1) interior solution in order to close the Einstein’s Field Equations, as well we use the Wyman IIa, Tolman IV, and Heintzmann IIa and Durgapal IV models as seeds solutions. These models fulfill the fundamental physical acceptability conditions for the compactness factor of the system 4U 1820-30. Stability against convection and against collapse are also studied.
 
 ## 4. Symmetric Cryptography Using Classical Waves - CLAWA
-### José Manuel Ramírez (Universidad Yachay Tech)
+### José Manuel Ramírez (Universidad Yachay Tech, Ecuador)
 
 This paper demonstrates the ability to perform symmetric cryptography with regular, continuous waves. With no knowledge of the time interval of each component, there is no way to carry out cryptanalysis by simple language statistics or known plain-text attacks. A comparison with the Frequency Shift Keying (FSK) modulation is made. The method aims to transmit and compute generic information, not only the transmission of 0s and 1s per se, but frequencies. The proof of concept has been implemented as an application programming interface (API) and can be easily used by several popular programming languages.
 
